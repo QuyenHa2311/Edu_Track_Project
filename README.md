@@ -15,7 +15,7 @@ Ensure you have:
 •	A local web server (XAMPP, WAMP, or use Live Server extension in VS Code)
 Setup Instructions
 1.	Clone the repository:
-2.	git clone https://github.com/your-repo/edutrack.git
+2.	git clone https://github.com/QuyenHa2311/Edu_Track_Project.git
 cd edutrack
 3.	Open the project in VS Code and start a local server.
 4.	Open index.html in your browser.
