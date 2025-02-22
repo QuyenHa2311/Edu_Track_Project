@@ -74,5 +74,3 @@ We use **Git with GitHub** as our version control system.
 1. **Easy collaboration** – Branching and merging streamline teamwork.
 2. **Code reviews & PRs** – Improves code quality through peer reviews.
 3. **Continuous integration** – Automates testing and deployment.
-
-For more details, visit our **[Project Wiki](https://github.com/QuyenHa2311/Edu_Track_Project/wiki)**.
